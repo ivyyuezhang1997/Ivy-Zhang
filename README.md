@@ -21,4 +21,4 @@ My pervious homework and code:
 My previous write up and data analysis report: 
 [Data Analysis](https://github.com/ivyyuezhang1997/Data-Analysis-Report)
 
-You also can find my resume at here: 
+You also can find my resume at here: [Ivy Zhang](https://github.com/ivyyuezhang1997/ivyyuezhang1997/blob/main/_Ivy%20Zhang%20Resume%2012_19pdf.pdf)
